@@ -1,0 +1,24 @@
+[
+  {
+    "id": "samsung-galaxy-a15-5g-128gb",
+    "nome": "Samsung Galaxy A15 5G",
+    "modelo": "Galaxy A15 5G",
+    "marca": "Samsung",
+    "versao": "128GB",
+    "precoAtual": null,
+    "ultimaAtualizacao": null,
+    "precoFonte": null,
+    "precosEncontrados": []
+  },
+  {
+    "id": "pc-exemplo",
+    "nome": "PC Exemplo",
+    "modelo": "PC Exemplo",
+    "marca": "PC",
+    "versao": "",
+    "precoAtual": null,
+    "ultimaAtualizacao": null,
+    "precoFonte": null,
+    "precosEncontrados": []
+  }
+]
